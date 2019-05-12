@@ -1,0 +1,428 @@
+[Version:1]
+ResourcePackage 
+{
+	var Name = "ButcherBlock"
+	var Resources = Array
+	{
+		Object
+		{
+			var ResourceId = 0x5cc8df34f6b24ce8
+			var Type = "TilePaletteSource"
+			var Name = "Textures"
+			var Location = "Textures.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5ccb3cb9e43d79ea
+			var Type = "TileMapSource"
+			var Name = "Level2_TileMap00"
+			var Location = "Level2_TileMap00.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cbfea483f1dc29b
+			var Type = "TileMapSource"
+			var Name = "Level1_TileMap01"
+			var Location = "Level1_TileMap01.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5ccb3db6350941bf
+			var Type = "TileMapSource"
+			var Name = "Level2_TileMap01"
+			var Location = "Level2_TileMap01.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32eddecf6aeef
+			var Type = "TileMapSource"
+			var Name = "Level2_TileMap02"
+			var Location = "Level2_TileMap02.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd0c2ccee78e3d6
+			var Type = "TileMapSource"
+			var Name = "Level3_TileMap00"
+			var Location = "Level3_TileMap00.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32bdd01aaefbd
+			var Type = "TileMapSource"
+			var Name = "Level4_TileMap00"
+			var Location = "Level4_TileMap00.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cbf15fcd5c313aa
+			var Type = "TileMapSource"
+			var Name = "Level1_TileMap00"
+			var Location = "Level1_TileMap00.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cbf165c07143546
+			var Type = "TilePaletteSource"
+			var Name = "Block"
+			var Location = "Block.bin"
+		}
+		Object
+		{
+			var ResourceId = 0x5cc8d64e30f8ddc3
+			var Type = "Font"
+			var Name = "BlueSky8x8"
+			var Location = "BlueSky8x8.ttf"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fd06313fcd
+			var Type = "SpriteSource"
+			var Name = "custom11014"
+			var Location = "custom11014.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd58dd10ffd7336
+			var Type = "SpriteSource"
+			var Name = "platform000"
+			var Location = "platform000.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cba57d7c9669d6c
+			var Type = "SpriteSource"
+			var Name = "NewPiskel1"
+			var Location = "NewPiskel1.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd58c64d16848e3
+			var Type = "SpriteSource"
+			var Name = "spikes001"
+			var Location = "spikes001.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a2b9015
+			var Type = "SpriteSource"
+			var Name = "castle_parts1001"
+			var Location = "castle_parts1001.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06ccc59b
+			var Type = "SpriteSource"
+			var Name = "custom11013"
+			var Location = "custom11013.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5ccb0baac670a96a
+			var Type = "SpriteSource"
+			var Name = "Run"
+			var Location = "Run.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06df744b
+			var Type = "SpriteSource"
+			var Name = "custom11000"
+			var Location = "custom11000.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c50162
+			var Type = "SpriteSource"
+			var Name = "custom11005"
+			var Location = "custom11005.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c40a50
+			var Type = "SpriteSource"
+			var Name = "custom11006"
+			var Location = "custom11006.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c7141c
+			var Type = "SpriteSource"
+			var Name = "custom11007"
+			var Location = "custom11007.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c91e6d
+			var Type = "SpriteSource"
+			var Name = "custom11009"
+			var Location = "custom11009.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06cb1553
+			var Type = "SpriteSource"
+			var Name = "custom11010"
+			var Location = "custom11010.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5ccb0b97cec89151
+			var Type = "SpriteSource"
+			var Name = "Idle"
+			var Location = "Idle.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06cdbdc2
+			var Type = "SpriteSource"
+			var Name = "custom11012"
+			var Location = "custom11012.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a286fbd
+			var Type = "SpriteSource"
+			var Name = "castle_parts1000"
+			var Location = "castle_parts1000.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06ca121f
+			var Type = "SpriteSource"
+			var Name = "custom11011"
+			var Location = "custom11011.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd58c64d16abd40
+			var Type = "SpriteSource"
+			var Name = "spikes002"
+			var Location = "spikes002.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a2ef1e6
+			var Type = "SpriteSource"
+			var Name = "castle_parts1003"
+			var Location = "castle_parts1003.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f9892909302
+			var Type = "SpriteSource"
+			var Name = "Textures5000"
+			var Location = "Textures5000.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f9892929995
+			var Type = "SpriteSource"
+			var Name = "Textures5001"
+			var Location = "Textures5001.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f989294db0c
+			var Type = "SpriteSource"
+			var Name = "Textures5002"
+			var Location = "Textures5002.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f98929656a1
+			var Type = "SpriteSource"
+			var Name = "Textures5003"
+			var Location = "Textures5003.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f989299b707
+			var Type = "SpriteSource"
+			var Name = "Textures5004"
+			var Location = "Textures5004.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd19f98929b3b71
+			var Type = "SpriteSource"
+			var Name = "Textures5005"
+			var Location = "Textures5005.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a2aad4d
+			var Type = "SpriteSource"
+			var Name = "castle_parts1002"
+			var Location = "castle_parts1002.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd58c64d1654520
+			var Type = "SpriteSource"
+			var Name = "spikes000"
+			var Location = "spikes000.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd58c64d16c0adc
+			var Type = "SpriteSource"
+			var Name = "spikes003"
+			var Location = "spikes003.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c6232e
+			var Type = "SpriteSource"
+			var Name = "custom11008"
+			var Location = "custom11008.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a1259e0
+			var Type = "SpriteSource"
+			var Name = "castle_parts1005"
+			var Location = "castle_parts1005.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c3166e
+			var Type = "SpriteSource"
+			var Name = "custom11003"
+			var Location = "custom11003.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c00e43
+			var Type = "SpriteSource"
+			var Name = "custom11002"
+			var Location = "custom11002.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06de8127
+			var Type = "SpriteSource"
+			var Name = "custom11001"
+			var Location = "custom11001.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd192fc06c2093c
+			var Type = "SpriteSource"
+			var Name = "custom11004"
+			var Location = "custom11004.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a15d28f
+			var Type = "SpriteSource"
+			var Name = "castle_parts1006"
+			var Location = "castle_parts1006.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32d756a10dd39
+			var Type = "SpriteSource"
+			var Name = "castle_parts1004"
+			var Location = "castle_parts1004.png"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd5875903205b27
+			var Type = "Level"
+			var Name = "TitleScreen"
+			var Location = "TitleScreen.Level.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32e63fa6f9e25
+			var Type = "Level"
+			var Name = "Level1"
+			var Location = "Level1.Level.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd0c266812aa577
+			var Type = "Level"
+			var Name = "Level2"
+			var Location = "Level2.Level.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd32b2e05cd5b0f
+			var Type = "Level"
+			var Name = "Level3"
+			var Location = "Level3.Level.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5ccb32021f40b304
+			var Type = "Cog"
+			var Name = "Player"
+			var Location = "Player.Archetype.data"
+		}
+		Object
+		{
+			var ResourceId = 0x576f215c0825de61
+			var Type = "Space"
+			var Name = "Space"
+			var Location = "Space.data"
+		}
+		Object
+		{
+			var ResourceId = 0x576f215c0825a2d3
+			var Type = "GameSession"
+			var Name = "Game"
+			var Location = "Game.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd4f6fdfbc2bf3a
+			var Type = "Cog"
+			var Name = "Collider"
+			var Location = "Collider.Archetype.data"
+		}
+		Object
+		{
+			var ResourceId = 0x5cc8d3eca49ca5ec
+			var Type = "ZilchScript"
+			var Name = "LoadLevelOnCollsionStarted"
+			var Location = "LoadLevelOnCollsionStarted.zilchscript"
+		}
+		Object
+		{
+			var ResourceId = 0x5cbe4226125e7a4a
+			var Type = "ZilchScript"
+			var Name = "SweptInput2D"
+			var Location = "SweptInput2D.zilchscript"
+		}
+		Object
+		{
+			var ResourceId = 0x5cca631cd7bbc803
+			var Type = "ZilchScript"
+			var Name = "PlayerAnimationController"
+			var Location = "PlayerAnimationController.zilchscript"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd5873e70135219
+			var Type = "ZilchScript"
+			var Name = "LoadLevelOnKeyDown"
+			var Location = "LoadLevelOnKeyDown.zilchscript"
+		}
+		Object
+		{
+			var ResourceId = 0x5cbe425226f8a0c8
+			var Type = "ZilchScript"
+			var Name = "SweptController"
+			var Location = "SweptController.zilchscript"
+		}
+		Object
+		{
+			var ResourceId = 0x5cd4f1a89afac998
+			var Type = "ZilchScript"
+			var Name = "DestroyOnCollide"
+			var Location = "DestroyOnCollide.zilchscript"
+		}
+	}
+}
